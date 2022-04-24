@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+    font: normal 18pt arial;
+}
+header{
+    text-align: center;
+    color: rgb(53, 46, 17);
+}
+section{
+    background: darkcyan;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 5px 10px 15px black;
+    
+}
+select {
+    width: 150px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font: italic;
+}
